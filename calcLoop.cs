@@ -1,4 +1,4 @@
-/* 5 : Write a program for Demonstrate Arithmetic operator 
+ 5 : Write a program for Demonstrate Arithmetic operator 
 with user input , with using loop for execute multiple times.
 
 // By Aditya C Mahajan
